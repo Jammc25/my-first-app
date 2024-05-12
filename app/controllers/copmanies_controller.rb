@@ -1,0 +1,2 @@
+class CopmaniesController < ApplicationController
+end
